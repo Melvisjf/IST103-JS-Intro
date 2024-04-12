@@ -1,3 +1,5 @@
+//Activity 1
+alert("hello world")
 
 //Activity 2
 let Name = "Juan"

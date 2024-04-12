@@ -22,7 +22,7 @@ console.log("my height is " + height)
     battery: "3110mAh"
  }
 
-console.log("what i need to do"+ whattodo[0])
-console.log("My phone specifications"+ myPhone)
+console.log("what i need to do "+ whattodo[0])
+console.log("My phone specifications " + myPhone.battery)
 
  

@@ -19,7 +19,7 @@ console.log("my height is " + height)
     screen: "6.1 inches",
     camera: "12px",
     ram: "4gb",
-    battery: "3110mAh"
+    battery: "3110mAh" 
  }
 
 console.log("what i need to do "+ whattodo[0])
